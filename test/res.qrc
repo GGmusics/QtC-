@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../../../QtImage/loadBack.jpg</file>
+        <file>../../../../../QtImage/appstore.svg</file>
+        <file>../../../../../QtImage/mihoyo.svg</file>
+        <file>../../../../../QtImage/close.svg</file>
+        <file>../../../../../QtImage/min.svg</file>
+        <file>../../../../../QtImage/mihoyo2.svg</file>
+        <file>../../../../../QtImage/up.svg</file>
+    </qresource>
+</RCC>
